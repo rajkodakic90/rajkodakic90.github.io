@@ -69,8 +69,8 @@ a#pdf:hover { background: #222; }
 
 /* --// override to force 1/8th width grids -- */
 .yui-gf .yui-u{
-    display: grid;
+    display: grid inline-flex;
 }
-.yui-gf div.first{display: grid;}
+.yui-gf div.first{display: grid inline-flex;}
 
 
